@@ -4,7 +4,7 @@ import axios from 'axios';
 import './App.css';
 
 const url = ''; // your url
-const bearerToken = undefined; // your bearer token
+const bearerToken = undefined; // your bearer token, if needed
 
 interface ResponseStatus {
   status?: number,
